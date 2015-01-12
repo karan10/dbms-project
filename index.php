@@ -21,10 +21,7 @@
 
 <h4 align="left" style="font-family:Comic Sans Ms">By :
 <br>
-Akshay Jain (CS-05)<br>
 Karan Dev (CS-14)<br>
-Sajel Saxena (CS-28)<br>
-Manish Vashistha (IT-05)
 </h4>
 
 
